@@ -23,6 +23,9 @@ class Counter extends Component {
   // };
 
   render() {
+
+    console.log("Counter-rendered");
+
     //let classes = this.getBadgeClasses();
 
     //console.log("props", this.props);
